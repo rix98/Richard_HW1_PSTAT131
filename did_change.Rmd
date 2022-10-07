@@ -188,6 +188,16 @@ mpg %>%
   select_if(is.numeric) %>% cor() %>% corrplot(method='number',type='lower')
 ```
 
+**Cyl with displ have 0.93 postive correlation**
+
+**Cty with displ have -0.8 correlation** 
+
+**hwy and displ have -0.77 correlation**
+
+**Cty with Cyl have -0.81 correlation**
+
+**hwy and cyl have -0.76 correlation**
+
 **The relation ship makes sense to me, none surprise me **
 
 
