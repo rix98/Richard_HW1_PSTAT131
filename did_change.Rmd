@@ -103,7 +103,7 @@ This is Inferential. This question is testing a feature significant to the outco
 
 **A couple questions are always useful when you start out. These are “what variation occurs within the variables,” and “what covariation occurs between the variables.”**
 
-
+ 
 **You should use the tidyverse and ggplot2 for these exercises.**
 
 ```{r}
